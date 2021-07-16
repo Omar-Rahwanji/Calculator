@@ -1,6 +1,6 @@
 # calculator
 
-An Calculator Flutter application.
+A basic calculator flutter application with the support of a light/dark mode.
 
 ## Getting Started
 
